@@ -14,7 +14,17 @@
 
 ![preview](https://h.top4top.io/p_3690lbax70.jpg)
 
-Bagian USER : NOT_CONNECTED lu harus setup dulu dan masukan nomor Whatsapp lu, nanti bakal dikasih Code Pairing, sebagai contoh GA2CJ6K0 nah lu tautkan ke perangkan Whatsapp lu, menggunakan nomor telephone, biar nomor lu aman saat Wa Clone.
+Bagian USER : NOT_CONNECTED lu harus setup dulu dan masukan nomor Whatsapp, nanti bakal dikasih Code Pairing, sebagai contoh GA2CJ6K0 nah lu tautkan ke perangkat Whatsapp menggunakan nomor telephone, biar nomor lu aman saat Wa Clone.
+
+Setelah itu lu ketik 1. di menu, nah nanti bakal minta nomor, lu masukin nomor yang mau dilihat isi chat Whatsappnya.
+
+# Information
+
+1. Setelah masukin nomor target bakal ada pengiriman berhasil, nah lu tunggu sampe ada tulisan
+( Tautan Perangkat Berhasil )
+
+2. jika ada Closed Connecting atau error, lu ketik ( rm -rf auth_master auth_target ) nah setelah itu masukin lagi nomor target
+
 
 ![preview](https://i.top4top.io/p_3690l08k31.jpg)
 
