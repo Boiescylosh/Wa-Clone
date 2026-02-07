@@ -29,7 +29,7 @@ Lihatnya dimana? Ada pada menu No.4 di Gambar pertama, jika berhasil maka No.4 a
 Jiika ada tulisan Closed Connecting atau error, lu ketik :
 
 1. rm -rf auth_master auth_target lalu ENTER setelah itu
-2. Jika pakai KUOTA aktifkan mode pesawat selama 10 detik lalu aktifkan kembali, biar ip aman, kalo pake Wifi Routter cabut selama 10 detik.
+2. Jika pakai KUOTA aktifkan mode pesawat selama 10 detik lalu aktifkan kembali, biar ip aman, kalo pake Wifi Router cabut selama 10 detik.
 3. node Wa-Clone.js
 
 Nah setelah itu masukin lagi nomor target
