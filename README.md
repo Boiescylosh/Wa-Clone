@@ -18,16 +18,18 @@ Bagian USER : NOT_CONNECTED lu harus setup dulu dan masukan nomor Whatsapp, nant
 
 Setelah itu lu ketik 1. di menu, nah nanti bakal minta nomor, lu masukin nomor yang mau dilihat isi chat Whatsappnya.
 
-# Information
-
-1. Setelah masukin nomor target bakal ada pengiriman berhasil, nah lu tunggu sampe ada tulisan
-( Tautan Perangkat Berhasil )
-
-2. jika ada Closed Connecting atau error, lu ketik ( rm -rf auth_master auth_target ) nah setelah itu masukin lagi nomor target
-
-
 ![preview](https://i.top4top.io/p_3690l08k31.jpg)
 
 Setelah target mengkonfirmasi dengan nomor verifikasi, nanti muncul isi semua chat Whatsapp korban.
 
 Lihatnya dimana? Ada pada menu No.4 di Gambar pertama, jika berhasil maka No.4 akan muncul otomatis.
+
+# Information
+
+Jiika ada tulisan Closed Connecting atau error, lu ketik :
+
+• rm -rf auth_master auth_target 
+• Jika pakai KUOTA aktifkan mode pesawat selama 10 detik lalu aktifkan kembali, biar ip aman, kalo pake Wifi Routter cabut selama 10 detik.
+• node Wa-Clone.js
+
+Nah setelah itu masukin lagi nomor target
