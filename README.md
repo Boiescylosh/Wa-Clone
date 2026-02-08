@@ -10,6 +10,16 @@
 8. node setup.js
 9. node Wa-Clone.js
 
+# Installation ( Linux )
+
+1. sudo apt update
+2. sudo apt install nodejs npm git -y
+3.  git clone https://github.com/Boiescylosh/Wa-Clone
+4. cd Wa-Clone
+5. npm install
+6. node setup.js
+7. node Wa-Clone.js
+
 # Script Image
 
 ![preview](https://h.top4top.io/p_3690lbax70.jpg)
