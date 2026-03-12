@@ -20,8 +20,6 @@
 6. node setup.js
 7. node Wa-Clone.js
 
-# Script Image
-
 ![preview](https://h.top4top.io/p_3690lbax70.jpg)
 
 Bagian USER : NOT_CONNECTED lu harus setup dulu dan masukan nomor Whatsapp, nanti bakal dikasih Code Pairing, sebagai contoh GA2CJ6K0 nah lu tautkan ke perangkat Whatsapp menggunakan nomor telephone, biar nomor lu aman saat Wa Clone.
